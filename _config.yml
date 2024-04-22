@@ -60,7 +60,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: cmosinverter
 
 # Netease settings
 netease_comment: false
@@ -75,7 +75,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "做一個溫暖的人 <br> Master Student @ NTHU"
+sidebar-about-description: "做一個有趣的靈魂 <br> Master Student @ NTHU"
 sidebar-avatar: https://github.com/cmosinverter.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
