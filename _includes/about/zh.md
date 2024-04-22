@@ -1,10 +1,10 @@
-Hey，我是PC Liu，中央大學電機系畢業，目前就讀於清華大學電機系研究所，專長為機器學習及深度學習，主要研究內容是感測器的時間序列分析。
+Hey，我是PC Liu，中央大學電機系畢業，目前就讀於清華大學電機系研究所，專長為機器學習及深度學習，主要研究內容是低成本空氣品質感測器的時間序列分析。
 
 
-目前的物理活動範圍為新竹市，也想當個數字游<del>民</del>俠。虛擬分身日常出沒於[Instagram](https://www.instagram.com/pcpcliu/)、[Github](https://github.com/cmosinverter) 等。
+目前的物理活動範圍為新竹市，也想當個數字游<del>民</del>俠。平常出沒於[Instagram](https://www.instagram.com/pcpcliu/)、[Github](https://github.com/cmosinverter) 等。
 
 
-##### 技术演讲
+##### 技術演講
 
 <!-- - [React 国情咨文 2022][13] · 第七届中国开源年会 · 2023
 - [React Labs: What We've Been Working On – June 2022][12] · React Blog
@@ -22,7 +22,7 @@ Hey，我是PC Liu，中央大學電機系畢業，目前就讀於清華大學�
 - [JavaScript 模块化七日谈][1] · 2015 -->
 
 
-##### 媒体关注
+##### 媒體關注
 
 <!-- - [Hux 黄玄：从全局视角看 React 生态][14] · 直播 · 图灵 8 点半 · 2023
 - [2022 中国开源先锋 33 人][18] · SegmentFault · 2023
