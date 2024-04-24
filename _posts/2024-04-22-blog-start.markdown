@@ -30,31 +30,34 @@ tags:
 首先打開這個[網址](https://github.com/Huxpro/huxpro.github.io)。
 
 ### 第二步
-
+![fork](/img/in-post/2024-04-22-blog-start/fork.png)
 點選右上角的`Fork`按鈕，將這個專案fork到你的Github上。
 
 ### 第三步
-
+![username](/img/in-post/2024-04-22-blog-start/username.png)  
 將Repository name改為`username.github.io`，其中`username`必須是你的Github用戶名。
 
 ### 第四步
+![actions](/img/in-post/2024-04-22-blog-start/actions.png)  
+點選`Settings`，在左側`Code and automation`找到`Pages`，並將`Source`用選單設置為`Github Actions`
 
-點選`Settings`，在左側`Code and automation`找到`Pages`，並將`Source`用選單設置為`Github Actions`，  
+![jekyll](/img/in-post/2024-04-22-blog-start/jekyll.png)  
 此時網頁會跳出`Jekyll`的選項，點選`Configure`，系統就會自動生成一個`Jekyll`的`Github Actions`配置文件。
 
 ### 第五步
 
-點選右上角的`Commit changes`，等待幾分鐘，你的部落格就建立好了，  
+點選右上角的`Commit changes`，等待幾分鐘，你的部落格就建立好了。
+
+![workflow](/img/in-post/2024-04-22-blog-start/workflow.png)  
 可以在選單裡面的`Actions`裡面查看`Github Actions`的運行情況。
 
 ## Customize —— 自定義
 
-在Github上建立好部落格之後，我們可以進行一些自定義的操作，比如修改部落格的樣式，或是添加新的文章，  
-這裡我將會示範一些比較重要的自定義操作。
+在Github上建立好部落格之後，我們可以進行一些自定義的操作，比如修改部落格的樣式，或是添加新的文章，這裡我將會示範一些比較重要的自定義操作。
 
 你可以在repo裡面的`_config.yml`文件中修改大部分部落格的配置。
 
-**網站基本屬性設定**
+### 網站基本屬性設定
 ```
 # Site settings
 title: PCLiu's Blog
@@ -66,31 +69,30 @@ keyword: "PCLiu, Machine Learning, Deep Learning, ML, DL, Large Language Model, 
 url: "https://cmosinverter.github.io/" # your host, for absolute URL
 ```
 
-**社群軟體設定**
+### 社群軟體設定
 ```
 # SNS settings
 RSS: false
 instagram_username: pcpcliu
 github_username: cmosinverter
 ```
-**討論區設定**
+### 討論區設定
 ```
 # Disqus settings
 disqus_username: cmosinverter
 ```
-這邊的步驟比較複雜一點，我們需要到[Disqus](https://disqus.com/)註冊一個帳號，然後在這裡填入你的`disqus_username`，  
-這樣就可以在部落格上添加討論區了。
+這邊的步驟比較複雜一點，我們需要到[Disqus](https://disqus.com/)註冊一個帳號，然後在這裡填入你的`disqus_username`，這樣就可以在部落格上添加討論區了。
 
 **注意**：在開始使用之前必須要先驗證註冊帳號時填入的e-mail，否則討論區無法正常運行。
 
-**Side bar設定**
+### Side bar設定
 ```
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "做一個有趣的靈魂 <br> Master Student @ NTHU"
 sidebar-avatar: https://github.com/cmosinverter.png # use absolute URL, seeing it's used in both `/` and `/about/`
 ```
-**友人連結設定**
+### 友人連結設定
 
 ```
 # Friends
