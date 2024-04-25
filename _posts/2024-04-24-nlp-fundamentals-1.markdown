@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "NLP基礎學習 - Text Preprocessing"
+title:      "NLP基礎學習 - Tokenization"
 subtitle:   "將文本轉換為標記的過程"
 date:       2024-04-25
 author:     "PCLiu"
@@ -11,7 +11,7 @@ tags:
 ---
 
 
-> 在自然語言處理中，Tokenization是將文本轉換為標記的過程。標記是文本中的最小單位，可以是單詞、字符、子詞等。Tokenization是自然語言處理的第一步，它將文本轉換為機器可讀的形式，為後續的處理提供了基礎。在本文中，我們將探討Tokenization的基本概念，常見的Tokenization方法，以及如何在Python中實現Tokenization。
+> 在自然語言處理中，Tokenization是將文本轉換為標記的過程。標記是文本中的最小單位，可以是單詞、字符、子詞等。Tokenization是自然語言處理的第一步，它將文本轉換為機器可讀的形式，為後續的處理提供了基礎。在本文中，我們將探討Tokenization的基本概念，以及常見的Tokenization方法。
 
 ## Tokenization
 
@@ -152,7 +152,7 @@ defaultdict(int,
 
 ## References
 
+[1] [台大資訊陳縕儂 深度學習之應用](https://www.youtube.com/watch?v=NrT5kmnTFCk&list=PLOAQYZPRn2V4jYwTGKUH4YaU6NE6VROZX&index=25)  
+[2] [大魔術熊貓工程師 - 當代的 Tokenizer algorithm](https://ithelp.ithome.com.tw/m/articles/10298638)
 
----
-
-本文是我的第二篇文章，如果您喜歡，請繼續關注我的Blog /w
+本文是我的第二篇文章，如果您喜歡，請繼續關注我的Blog :)
