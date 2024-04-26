@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "NLP基礎學習 - Tokenization"
-subtitle:   "將文本轉換為標記的過程"
+title:      "NLP基礎學習(一) - Tokenization"
+subtitle:   "將文本轉換為Token的過程"
 date:       2024-04-25
 author:     "PCLiu"
 header-img: "img/post-bg-os-metro.jpg"
@@ -97,7 +97,7 @@ vocab = {'l o w </w>' : 5,
 ```
 一共有11個字符，此時相鄰的pair所對應倒的出現頻率如下： 
 
-```
+```python
 defaultdict(int,
             {('l', 'o'): 7,
              ('o', 'w'): 7,
