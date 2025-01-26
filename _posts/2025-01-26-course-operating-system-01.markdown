@@ -24,7 +24,7 @@ tags:
 - Memory被切成兩塊
 - 人來決定Job執行的順序 (卡片順序)
 
-![image-01](../img/in-post/2025-01-26-course-operating-system-01/image-01.png)
+![image-01](/img/in-post/2025-01-26-course-operating-system-01/image-01.png)
 
 **缺點**
 
