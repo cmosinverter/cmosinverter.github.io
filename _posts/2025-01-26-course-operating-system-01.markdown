@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "周志遠教授作業系統 第1講 Syllabus&Ch0: Historical Prospective"
+title:      "周志遠教授作業系統 第1講"
 subtitle:   "Operating System Concept"
 date:       2025-01-26
 author:     "PCLiu"
@@ -13,7 +13,7 @@ tags:
 
 # 周志遠教授作業系統 第1B講 Syllabus&Ch0: Historical Prospective
 
-## Mainframe Systems
+### Mainframe Systems
 
 - Good reliability
 - Good security
